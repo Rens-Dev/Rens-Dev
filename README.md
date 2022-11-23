@@ -2,7 +2,7 @@
 - 👀 I’m interested in webdesign
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on my current project
-- 📫 How to reach me : Discord : : Email :
+- 📫 How to reach me : Discord Loading...#0350 : : Email rensvermeulen1@icloud.com :
 
 <!---
 Rens-Dev/Rens-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
