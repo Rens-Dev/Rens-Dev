@@ -1,8 +1,7 @@
 - 👋 Yo wsp, I’m @Rens-Dev
 - 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently learning React TypeScript
-- 💞️ I’m looking to collaborate on my current project
-- 📫 How to reach : Discord: rensplayz :
+- 📫 How to reach : Discord: rensplays :
 
 <!---
 Rens-Dev/Rens-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
